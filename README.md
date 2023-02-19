@@ -4,7 +4,8 @@
 
 ## Лабораторная работа №1
 ____
-Цель работы - создание простой веб-страницы на github с описанием выполнения лабораторных работ
+### Цель 
+Cоздание простой веб-страницы на github с описанием выполнения лабораторных работ
 
 1. Регистрация на GitHub.com\
 [Страница пользователя](https://github.com/longruss)
@@ -29,7 +30,9 @@ ____
 
 ## Лабораторная работа №3
 ____
-### Настроить сеть в Сisco Packet Tracer
+### Цель
+Настроить сеть в Сisco Packet Tracer
+
 Отчет по лабораторной работе доступен по [ссылке](https://docs.google.com/document/d/13VPg74O0VdX2ZTmTvlzP-Onv2EsT-pIM/edit?usp=share_link&ouid=101676901039019595295&rtpof=true&sd=true)
 
 Файл к данной работе можно увидеть [здесь](https://drive.google.com/file/d/1Cn6_MtrYWFJc6WEfu1LYIwIpS46SFr2R/view?usp=sharing)
