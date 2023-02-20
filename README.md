@@ -42,5 +42,5 @@ ____
 ____
 Ответ на экзаменационный билет доступен по [ссылке](https://github.com/stankin/inet-2022/wiki/exam12)
 
-Ссылки на коммиты [1](https://github.com/stankin/inet-2022/wiki/exam12/_compare/fc08f5b056c353659a1daa6f2d1355169890ff6f) и [2](https://github.com/stankin/inet-2022/wiki/exam12/_compare/4489346e99ee8453f5af5e18d68e18d3ba971ace)
+Ссылки на коммиты [1](https://github.com/stankin/inet-2022/wiki/exam12/_compare/fc08f5b056c353659a1daa6f2d1355169890ff6f), [2](https://github.com/stankin/inet-2022/wiki/exam12/_compare/4489346e99ee8453f5af5e18d68e18d3ba971ace) и [3](https://github.com/stankin/inet-2022/wiki/exam12/_compare/12c3463c93c593129521cb0cbc65964446849ae9)
 ____
